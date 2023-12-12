@@ -19,7 +19,7 @@
 
   .why-us {
     background-color: hsl(0deg 0% 13.33%);
-    margin: -3rem;
+    margin: -3rem 0;
     padding: 3rem 0;
   }
 }
